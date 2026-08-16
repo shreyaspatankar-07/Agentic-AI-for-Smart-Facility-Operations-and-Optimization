@@ -2,6 +2,8 @@
 
 A Streamlit-based enterprise dashboard for predictive maintenance, powered by a locally-hosted LLM (via [Ollama](https://ollama.com)). The system ingests industrial sensor telemetry, detects machine failures, generates AI-driven diagnostic reports, and manages the full maintenance lifecycle — from work order creation to preventive maintenance scheduling.
 
+> 🎓 **This project was developed as part of the Infosys Springboard Internship Program.**
+
 ---
 
 ## 📌 Overview
