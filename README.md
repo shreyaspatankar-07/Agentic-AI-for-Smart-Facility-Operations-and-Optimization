@@ -133,7 +133,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 📄 License
 
-This project is provided for educational/academic purposes. Add your preferred license here (e.g., MIT).
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
 ---
 
